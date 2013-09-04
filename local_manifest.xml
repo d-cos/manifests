@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="dcos/android_device_lge_p880" path="device/lge/p880" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/lge-kernel-p880" path="kernel/lge/p880" remote="github" revision="cm-10.2" />
+<project name="TheMuppets/proprietary_vendor_lge.git" path="vendor/lge" remote="github" revision="cm-10.2" />
+</manifest>
